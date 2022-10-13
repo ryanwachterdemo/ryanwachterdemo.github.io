@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/ryanwachterdemo.github.io/static/css/main.0cee7dd0.css",
+    "main.js": "/ryanwachterdemo.github.io/static/js/main.920ee187.js",
+    "static/media/me-about.png": "/ryanwachterdemo.github.io/static/media/me-about.d99512392e2ea6e376f9.png",
+    "static/media/me.png": "/ryanwachterdemo.github.io/static/media/me.5f606cfb6f05119c8803.png",
+    "static/media/portfolio5.png": "/ryanwachterdemo.github.io/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
+    "static/media/portfolio2.jpg": "/ryanwachterdemo.github.io/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
+    "static/media/portfolio6.jpg": "/ryanwachterdemo.github.io/static/media/portfolio6.72d1107e313049cf15a7.jpg",
+    "static/media/portfolio1.jpg": "/ryanwachterdemo.github.io/static/media/portfolio1.f5e72352e5aa840702b8.jpg",
+    "static/media/portfolio3.jpg": "/ryanwachterdemo.github.io/static/media/portfolio3.cbab42559fe73e73906f.jpg",
+    "static/media/portfolio4.jpg": "/ryanwachterdemo.github.io/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
+    "index.html": "/ryanwachterdemo.github.io/index.html",
+    "main.0cee7dd0.css.map": "/ryanwachterdemo.github.io/static/css/main.0cee7dd0.css.map",
+    "main.920ee187.js.map": "/ryanwachterdemo.github.io/static/js/main.920ee187.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0cee7dd0.css",
+    "static/js/main.920ee187.js"
+  ]
+}
